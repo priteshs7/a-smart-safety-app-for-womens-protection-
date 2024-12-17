@@ -1,0 +1,38 @@
+A Smart Safety App For Women's Protection
+
+Software and Tools:
+
+      Install Android Studio (for mobile app development) or any preferred IDE.
+      Install Node.js and npm (for backend and APIs).
+      Install PostgreSQL or MySQL for the database.
+
+Dependencies:
+ 
+	Ensure you have Python (for machine learning modules, if applicable).
+	Install necessary libraries/frameworks (e.g., React Native/Flutter for the frontend, Express/Django for the backend).
+
+Environment Setup:
+
+	Create a .env file and configure keys like API_KEY, DATABASE_URL, MAPS_API_KEY, etc.
+	Obtain Google Maps API keys for real-time location sharing.
+
+Steps to Run
+
+1.Install Frontend Dependencies:
+        Navigate to the frontend directory and install dependencies:
+
+2.Set Up the Backend:
+        Navigate to the backend directory and install dependencies:
+        Configure the database in the .env file.
+        Start the backend server
+        
+4.Database Migration:
+        Run migrations to set up the database schema:
+
+5.Build and Deploy:
+        For mobile apps, open the project in Android Studio or Xcode and build the app.
+        For web apps, deploy the frontend using npm build and host it on platforms like Netlify or Vercel.
+
+6.Run the Application:
+        Launch the mobile app on a simulator or physical device.
+        Access the web app on http://localhost:3000 or the deployed URL.
